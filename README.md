@@ -35,6 +35,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
     <img src="https://img.shields.io/badge/Express.js-000000?style=square-flat-rounded-logo&label=&message=Express.js&color=000000&labelColor=000000">
     <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
+    <img src="https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
 
 </div>
 </div>
