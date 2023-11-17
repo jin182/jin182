@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hello, I'm Yoo Jin Woo, a student developer. Thank you for visiting my git hub. 👋
 
 <!--
 **Lay182/Lay182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
