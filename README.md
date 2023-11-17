@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
-- 🔭 I’m currently working on ...
+-🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,7 +22,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 
 <br>
 
-## 🔨 Once I've used 🔨
+## 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
