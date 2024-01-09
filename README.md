@@ -38,7 +38,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
     <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
     <img src="https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/react-7BB4E3?style=for-the-badge&logo=react&logoColor=white">
 
 
 </div>
