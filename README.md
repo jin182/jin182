@@ -34,7 +34,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
     <br/><br/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=square-flat-rounded-logo&amp;label=&amp;message=MongoDB&amp;color=#47A248&amp;labelColor=#47A248">
     <img src="https://img.shields.io/badge/Node.js-339933?style=square-flat-rounded
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https:img.shields.iobadgeexpress-000000?style=for-the-badge&logoexpress&logoColor=white">
     <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
     <img src="https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
