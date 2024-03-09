@@ -20,10 +20,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 
 <div align="left">
 
-<h3 align="center">📊 GitHub Stats 📊 </h3>
-<p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=jin182&theme=vue&show_icons=true"/></a>
-</p>
+
 
 
 <br>
@@ -45,3 +42,8 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
   <img src="https://img.shields.io/badge/react-7BB4E3?style=flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=white">
 </div>
+
+<h3 align="center">📊 GitHub Stats 📊 </h3>
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=jin182&theme=vue&show_icons=true"/></a>
+</p>
