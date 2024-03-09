@@ -27,7 +27,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 
 
 <br>
-<h3 align="center"">my stack</h3>
+<h3 align="center"">🛠my stack🛠</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-evenly; ">  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
