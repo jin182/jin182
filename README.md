@@ -19,6 +19,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 -->
 
 <div align="left">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <br>
 <h3 align="center"">my stack</h3>
