@@ -20,6 +20,11 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 
 <div align="left">
 
+<h3 align="center">📊 GitHub Stats 📊 </h3>
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+</p>
+
 
 <br>
 <h3 align="center"">my stack</h3>
