@@ -1,9 +1,6 @@
 <h2>Hi there! I'm yu, jinwoo 👋 a student developer passionate about <br>
   web development and security.</h2>
 
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/118411971?s=400&u=d7ed8ec8c3d2dda42e94b2e081b5ae36fa7d4d01&v=4" width="100%" height="35%" />
-</div>
 
 <div align="left">
   <h3 align="center">📊 GitHub Stats 📊</h3>
