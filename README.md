@@ -56,14 +56,13 @@
   <h3>My Projects</h3>
   <div align="center">
     <a href="https://jinwoo-react-project1.web.app/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jin182&repo=my-project-1&theme=dark" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUFRg0oA-MXc_UpsLlBdVl28OipRiaK8ThfuP1-d00A&s&repo=my-project-1&theme=dark" />
     </a>
   </div>
 
   <h3>Contact Me</h3>
   <div align="center">
     <a href="mailto:jinwoo9288@gmail.com">Email</a> |
-    <a href="https://linkedin.com/in/yourusername">LinkedIn</a> |
-    <a href="https://twitter.com/yourusername">Twitter</a>
+    <a href="https://jin182.tistory.com/">Tistory</a> |
   </div>
 </div>
