@@ -2,7 +2,7 @@
   web development and security.</h2>
 
 <div align="left">
-  <img src="https://avatars.githubusercontent.com/u/118411971?s=400&u=d7ed8ec8c3d2dda42e94b2e081b5ae36fa7d4d01&v=4" width="100%" height="550" />
+  <img src="https://avatars.githubusercontent.com/u/118411971?s=400&u=d7ed8ec8c3d2dda42e94b2e081b5ae36fa7d4d01&v=4" width="100%" height="100%" />
 </div>
 
 <div align="left">
