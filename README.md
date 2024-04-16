@@ -35,6 +35,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/EJS-52B0E7?style=flat-square&label=EJS">
+	<img src="https://img.shields.io/badge/go-52B0E7?style=flat-square&label=go">
   <br/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=#47A248">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodejs&logoColor=white">
