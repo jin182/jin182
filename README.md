@@ -1,4 +1,4 @@
-<h2>Hi there! I'm yu, jinwoo 👋 a student developer passionate about
+<h2>Hi there! I'm yu, jinwoo 👋 a student developer passionate about <br>
   web development and security.</h2>
 
 <div align="left">
