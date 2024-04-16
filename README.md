@@ -64,5 +64,6 @@
   <div align="center">
     <a href="mailto:jinwoo9288@gmail.com">Email</a> |
     <a href="https://jin182.tistory.com/">Tistory</a> |
+    <a href="https://quirky-rotate-744.notion.site/YU-JINWOO-f26fa476b8cf4df4890d484b8dc4e7e5?pvs=4">Portfolio</a>
   </div>
 </div>
