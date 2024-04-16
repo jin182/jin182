@@ -56,7 +56,7 @@
   <h3>My Projects</h3>
   <div align="center">
     <a href="https://jinwoo-react-project1.web.app/">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUFRg0oA-MXc_UpsLlBdVl28OipRiaK8ThfuP1-d00A&s&repo=my-project-1&theme=dark" />
+      <p>감정다이어리</p>
     </a>
   </div>
 
