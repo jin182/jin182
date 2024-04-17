@@ -17,10 +17,10 @@
 
   <h3>Programming Languages</h3>
   <div align="center">
+    <img src="https://img.shields.io/badge/C-00538C?style=flat-square&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/C-00538C?style=flat-square&logo=C&logoColor=white" />
   </div>
 
  <h3>markup language</h3>
