@@ -1,6 +1,6 @@
-## 👋 Hi there! I'm Yu, Jinwoo  
+## 👋 Hi there! I'm Yu, Jinwoo
 
-I'm a student developer passionate about web development and security. I'm always eager to learn new technologies and tackle challenging projects.
+I'm a student developer passionate about web development and security. I'm always eager to learn new technologies and tackle challenging projects. I work on a variety of operating systems, including macOS, Ubuntu, Kali Linux, and Windows.
 
 <div align="center">
 
