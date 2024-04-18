@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Yu, Jinwoo
 
-I'm a student developer passionate about web development and security. I'm always eager to learn new technologies and tackle challenging projects. I work on a variety of operating systems, including macOS, Ubuntu, Kali Linux, and Windows.
+I'm a student developer passionate about web development and security. I'm always eager to learn new technologies and tackle challenging projects.
 
 <div align="center">
 
@@ -54,6 +54,17 @@ I'm a student developer passionate about web development and security. I'm alway
 <div align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </div>
+
+## OS
+### Operating Systems
+
+<div align="center">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+</div>
+
 
 ## Projects
 
