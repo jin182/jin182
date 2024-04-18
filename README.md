@@ -3,11 +3,6 @@
 
 
 <div align="left">
-  <h3 align="center">📊 GitHub Stats 📊</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jin182&theme=vue&show_icons=true&count_private=true&hide=contribs&bg_color=00000000&text_color=777" width="400" />
-  </p>
-
   <h3>Operating Systems</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
@@ -69,4 +64,9 @@
     <a href="https://jin182.tistory.com/">Tistory</a> |
     <a href="https://quirky-rotate-744.notion.site/YU-JINWOO-f26fa476b8cf4df4890d484b8dc4e7e5?pvs=4">Portfolio</a>
   </div>
+
+  <h3 align="center">📊 GitHub Stats 📊</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jin182&theme=vue&show_icons=true&count_private=true&hide=contribs&bg_color=00000000&text_color=777" width="400" />
+  </p>
 </div>
