@@ -7,7 +7,7 @@ I'm a student developer passionate about web development and security. I'm alway
 ### GitHub Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jin182&theme=vue&show_icons=true&count_private=true&hide=contribs&bg_color=00000000&text_color=777" width="450px" height="400px" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jin182&theme=vue&show_icons=true&count_private=true&hide=contribs&bg_color=00000000&text_color=777" width="4-0px" height="500px" /> 
   <img style="width: 400px; height: 350px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin182&layout=compact&theme=tokyonight" /> 
 </p>
 </div>
