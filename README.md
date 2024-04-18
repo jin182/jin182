@@ -8,7 +8,7 @@ I'm a student developer passionate about web development and security. I'm alway
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jin182&theme=vue&show_icons=true&count_private=true&hide=contribs&bg_color=00000000&text_color=777" width="289" />
-  <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlstmd&layout=compact&theme=tokyonight" />
+  <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin182&layout=compact&theme=tokyonight" />
 </p>
 
 </div>
