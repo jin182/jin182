@@ -12,7 +12,9 @@ I'm a student developer passionate about web development and security. I'm alway
 
 </div>
 
-##🖥️ Operating Systems 
+## 🖥️ Operating Systems
+
+### OS 
 
 <div align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
