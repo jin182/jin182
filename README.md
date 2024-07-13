@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Yu, Jinwoo
+## 👋 Hi there! I'm Yu, Jinwoo 
 
 I'm a student developer passionate about web development and security. I'm always eager to learn new technologies and tackle challenging projects.
 
