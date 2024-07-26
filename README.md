@@ -8,6 +8,9 @@ I'm a student developer passionate about web development and security. I'm alway
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jin182&theme=vue&show_icons=true&count_private=true&hide=contribs&bg_color=00000000&text_color=777"  alt="GitHub Stats" />
 </p> 
+<p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinh182&layout=compact)
+</p>
 </div>
 
 ## 🖥️ Operating Systems
