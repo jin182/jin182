@@ -70,10 +70,8 @@ I'm a student developer passionate about web development and security. I'm alway
 </div>
 
 ## Certificates
-<div>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbh8ElO%2FbtsIiWfYn6i%2FXs8Vztpar7eitJ42KpalE0%2Fimg.jpg" width="400" height="400" />
-  <p>현대오토에버와 함께하는 고교생 IT 꿈나무 성장지원 진행중 6월 29일 ~ 10월 27일</p>
-</div>
+<p>현대오토에버와 함께하는 고교생 IT 꿈나무 성장지원 진행중 6월 29일 ~ 10월 27일</p>
 
 
 ## Projects
