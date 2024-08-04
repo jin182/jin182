@@ -17,8 +17,6 @@ I'm a student developer passionate about web development and security. I'm alway
 
 ## 🖥️ Operating Systems
 
-### 
-
 <div align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
@@ -69,10 +67,25 @@ I'm a student developer passionate about web development and security. I'm alway
 </div>
 
 ## Certificates
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbh8ElO%2FbtsIiWfYn6i%2FXs8Vztpar7eitJ42KpalE0%2Fimg.jpg" width="400" height="400" />
-<p>현대오토에버와 함께하는 고교생 IT 꿈나무 성장지원 진행중 6월 29일 ~ 10월 27일</p>
-
+<div align="center">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbh8ElO%2FbtsIiWfYn6i%2FXs8Vztpar7eitJ42KpalE0%2Fimg.jpg" width="400" height="400" />
+  <p>현대오토에버와 함께하는 고교생 IT 꿈나무 성장지원 진행중 6월 29일 ~ 10월 27일</p>
+</div>
 
 ## Projects
 
 - [감정다이어리](https://jinwoo-react-project1.web.app/) - A React-based web application for managing emotions and journaling.
+
+## 🔗 Links
+
+<div align="center">
+  <a href="https://quirky-rotate-744.notion.site/YU-JINWOO-f26fa476b8cf4df4890d484b8dc4e7e5">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+  <a href="https://www.instagram.com/yujinu389/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%A7%84%EC%9A%B0-%EC%9C%A0-61079b284/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
