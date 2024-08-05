@@ -4,7 +4,6 @@ I'm a student developer passionate about web development and security. I'm alway
 
 <div align="center">
 
-<div align="center">
 
 ### GitHub Stats & Top Languages
 
