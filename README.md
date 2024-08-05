@@ -23,7 +23,7 @@ I'm a student developer passionate about web development and security. I'm alway
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 </div>
-<hr />
+
 ## 🛠️ Skills
 
 ### Programming Languages
@@ -34,7 +34,6 @@ I'm a student developer passionate about web development and security. I'm alway
   <img src="https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
-<hr />
 
 ### Markup Languages
 
@@ -42,7 +41,6 @@ I'm a student developer passionate about web development and security. I'm alway
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </div>
-<hr />
 
 ### Web Frameworks and Libraries
 
@@ -54,7 +52,6 @@ I'm a student developer passionate about web development and security. I'm alway
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite.js-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </div>
-<hr />
 
 ### Databases
 
@@ -62,26 +59,22 @@ I'm a student developer passionate about web development and security. I'm alway
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=#47A248" />
 </div>
-<hr />
 
 ### Package Managers
 
 <div align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </div>
-<hr />
 
 ## Certificates
 <div align="center">
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbh8ElO%2FbtsIiWfYn6i%2FXs8Vztpar7eitJ42KpalE0%2Fimg.jpg" width="400" height="400" />
   <p>현대오토에버와 함께하는 고교생 IT 꿈나무 성장지원 진행중 6월 29일 ~ 10월 27일</p>
 </div>
-<hr />
 
 ## Projects
 
 - [감정다이어리](https://jinwoo-react-project1.web.app/) - A React-based web application for managing emotions and journaling.
-<hr />
 
 ## 🔗 Links
 
