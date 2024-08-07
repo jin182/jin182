@@ -74,10 +74,5 @@ Statistics
 
 - [감정다이어리](https://jinwoo-react-project1.web.app/) - A React-based web application for managing emotions and journaling.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jin182&color=green" alt="Profile View" />
-</p>
 
-<p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
-</p>
+
