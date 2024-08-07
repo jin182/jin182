@@ -1,4 +1,4 @@
-<img src="<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" height="400" width="100%">
+<img src="<img src="https://images.pexels.com/photos/5926397/pexels-photo-5926397.jpeg?auto=compress&cs=tinysrgb&w=600" alt="MasterHead" height="400" width="100%">
 " alt="MasterHead" height="400" width="100%">
 
 
