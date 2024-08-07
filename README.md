@@ -1,5 +1,4 @@
-<img src="<img src="https://images.pexels.com/photos/5926397/pexels-photo-5926397.jpeg?auto=compress&cs=tinysrgb&w=600" alt="MasterHead" height="400" width="100%">
-" alt="MasterHead" height="400" width="100%">
+<img src="https://images.pexels.com/photos/5926397/pexels-photo-5926397.jpeg?auto=compress&cs=tinysrgb&w=600" alt="MasterHead" height="400" width="100%">
 
 
 <h1 align="center">Hi 👋, I'm Yu Jinwoo</h1>
