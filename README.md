@@ -1,3 +1,4 @@
+
 <img src="https://images.pexels.com/photos/5926397/pexels-photo-5926397.jpeg?auto=compress&cs=tinysrgb&w=600" alt="MasterHead" height="400" width="100%">
 
 
@@ -22,8 +23,8 @@ Languages and Tools
 
 ### Languages:
 | C | Java | JavaScript |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> |
 
 ### Web Frameworks and Libraries:
 
@@ -60,19 +61,4 @@ Statistics
   <img src="https://github-readme-stats.vercel.app/api?username=jin182&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jin182&theme=vision-friendly-dark" alt="GitHub Streak" />
-</p>
-
-## Certificates
-<div align="center">
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbh8ElO%2FbtsIiWfYn6i%2FXs8Vztpar7eitJ42KpalE0%2Fimg.jpg" width="400" height="400" />
-  <p>현대오토에버와 함께하는 고교생 IT 꿈나무 성장지원 진행중 6월 29일 ~ 10월 27일</p>
-</div>
-
-## Projects
-
-- [감정다이어리](https://jinwoo-react-project1.web.app/) - A React-based web application for managing emotions and journaling.
-
-
-
+<p align="center
