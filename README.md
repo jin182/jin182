@@ -61,4 +61,14 @@ Statistics
   <img src="https://github-readme-stats.vercel.app/api?username=jin182&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
-<p align="center
+
+## Certificates
+<div align="center">
+  <P>사이버가디언즈 수료증</P>
+  <P>정보처리 기능사</P>
+  <p>현대오토에버와 함께하는 고교생 IT 꿈나무 성장지원 진행중 6월 29일 ~ 10월 27일</p>
+</div>
+
+## Projects
+
+- [감정다이어리](https://jinwoo-react-project1.web.app/) - A React-based web application for managing emotions and journaling.
