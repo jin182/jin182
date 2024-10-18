@@ -14,6 +14,14 @@
 <a href="https://www.linkedin.com/in/jinwoo-yu-61079b284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yu Jinwoo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yujinu389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yujinu389" height="30" width="40" /></a>
 </p>
+<hr>
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+<a href="https://quirky-rotate-744.notion.site/YU-JINWOO-f26fa476b8cf4df4890d484b8dc4e7e5" target="_blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/notion-1.svg" alt="My Portfolio" height="30" width="40" />
+  My Portfolio
+</a>
+</p>
 
 <hr>
 Languages and Tools 
