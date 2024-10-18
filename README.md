@@ -18,7 +18,7 @@
 <h3 align="left">Portfolio:</h3>
 <p align="left">
 <a href="https://quirky-rotate-744.notion.site/YU-JINWOO-f26fa476b8cf4df4890d484b8dc4e7e5" target="_blank">
-  <img align="center" src=https://img.icons8.com/ios7/200/notion.png" alt="My Portfolio" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/120px-Notion-logo.svg.png" alt="My Portfolio" height="30" width="40" />
   My Portfolio
 </a>
 </p>
