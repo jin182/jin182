@@ -18,7 +18,7 @@
 <h3 align="left">Portfolio:</h3>
 <p align="left">
 <a href="https://quirky-rotate-744.notion.site/YU-JINWOO-f26fa476b8cf4df4890d484b8dc4e7e5" target="_blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/notion-1.svg" alt="My Portfolio" height="30" width="40" />
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fko%2Ffree-png-armph&psig=AOvVaw1zT0pEjyaa9xE3WtFdHXT1&ust=1729348611115000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCWyt6TmIkDFQAAAAAdAAAAABAE" alt="My Portfolio" height="30" width="40" />
   My Portfolio
 </a>
 </p>
