@@ -78,6 +78,4 @@ Statistics
   <p>정보처리 산업기사</p>
 </div>
 
-## Projects
 
-- [감정다이어리](https://jinwoo-react-project1.web.app/) - A React-based web application for managing emotions and journaling.
