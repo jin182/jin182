@@ -1,82 +1,91 @@
-<img src="https://images.pexels.com/photos/5926397/pexels-photo-5926397.jpeg?auto=compress&cs=tinysrgb&w=600" alt="MasterHead" height="400" width="100%">
+<img src="https://images.pexels.com/photos/5926397/pexels-photo-5926397.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Main Banner" width="100%">
+
+<h1 align="center">👋 Hello, I'm yujinwoo.</h1>
 
 
-<h1 align="center">Hi 👋, I'm Yu Jinwoo</h1>
+---
 
-<h3 align="center">Student developer passionate about web development and security</h3>
+### 🧑‍💻 About Me
 
-- 🌱 I'm currently learning **new technologies and tackling challenging projects**
+- 🌱 **학습 중**: 시스템/웹 보안, 실무 프로젝트 경험  
+- 🔐 **관심 분야**: 보안(Security) 
+- 📫 **이메일**: jinwoo9288@gmail.com
 
-- 📫 How to reach me: jinwoo9288@gmail.com
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📎 Connect with me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/jinwoo-yu-61079b284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yu Jinwoo" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yujinu389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yujinu389" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jinwoo-yu-61079b284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/yujinu389/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://quirky-rotate-744.notion.site/Lay182-1ea9284e643e8065aae0c780464b35a3" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </p>
-<hr>
-<h3 align="left">Portfolio:</h3>
-<p align="left">
-<a href="https://quirky-rotate-744.notion.site/Lay182-1ea9284e643e8065aae0c780464b35a3" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/120px-Notion-logo.svg.png" alt="My Portfolio" height="30" width="40" />
-</a>
+
+---
+
+### 💻 기술 스택
+
+#### 🧠 언어
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
 </p>
 
-<hr>
-Languages and Tools 
-<hr>
-<div>
+#### 🌐 웹 프레임워크
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="40" alt="Bulma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" alt="Vite.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring" />
+</p>
 
-### Languages:
-| C | Java | JavaScript |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> |
+#### 🗄️ 데이터베이스
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+</p>
 
-### Web Frameworks and Libraries:
+#### 📦 패키지 매니저
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm" />
+</p>
 
-| React | Bulma | Bootstrap | Vite.js | Spring |
-|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite.js" alt="Vite.js" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="60" height="60"/> |
+#### 💻 운영체제
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" alt="macOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows" />
+</p>
 
+---
 
-### Database:
+### 📊 GitHub 활동
 
-| MySQL | MongoDB |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/> |
-
-### Package Managers:
-
-| npm |
-|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="60" height="60"/> |
-
-### OS:
-
-| macOS | Ubuntu | Kali Linux | Windows |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Kali Linux" alt="Kali Linux" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="60"/> |
-
-<hr>
-Statistics 
-<hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jin182&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jin182&show_icons=true&theme=vision-friendly-dark" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jin182&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jin182&layout=compact&theme=vision-friendly-dark" />
 </p>
 
+---
 
-## Certificates
-<div align="center">
-  <P>사이버가디언즈 수료증</P>
-  <P>정보처리 기능사</P>
-  <p>리눅스마스터 2급 </p>
-  <p>현대오토에버와 함께하는 고교생 IT 꿈나무 성장지원(2024)</p>
-  <p>정보처리 산업기사</p>
-  <p>화이트햇 스쿨 3기 수료중</p>
-</div>
+### 📚 자격증 및 수료
 
+- 사이버가디언즈 수료증  
+- 정보처리 기능사  
+- 리눅스마스터 2급  
+- 현대오토에버 고교생 IT 꿈나무 성장지원 (2024)  
+- 정보처리 산업기사  
+- 화이트햇 스쿨 3기 수료 중  
 
+---
