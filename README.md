@@ -80,6 +80,6 @@
 - Linux Master Level 2  
 - Hyundai AutoEver IT Talent Development for High School Students (2024)  
 - Industrial Engineer Information Processing  
-- WhiteHat School 3rd Cohort (in progress)  
+- WhiteHat School 3rd Cohort 
 
 ---
