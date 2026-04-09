@@ -60,17 +60,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jin182&show_icons=true&theme=vision-friendly-dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jin182&layout=compact&theme=vision-friendly-dark" />
-</p>
-
----
-
 ### 📚 Certifications & Courses
 
 - Cyber Guardians Certificate  
