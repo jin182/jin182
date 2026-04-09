@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 **Currently Learning**: System & Web Security, hands-on project experience  
+- 🌱 **Currently Learning**:  Digital Forensics, hands-on project experience  
 - 🔐 **Interests**: Security (Cybersecurity)  
 - 📫 **Email**: jinwoo9288@gmail.com  
 
