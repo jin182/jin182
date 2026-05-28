@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/jinwoo-yu-61079b284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/yujinu389/" target="_blank">
+  <a href="https://www.instagram.com/yujinwoo128/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://quirky-rotate-744.notion.site/Lay182-1ea9284e643e8065aae0c780464b35a3" target="_blank">
