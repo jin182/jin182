@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 **Currently Learning**:  Digital Forensics, hands-on project experience  
+- 🌱 **Currently Learning**:  Reverse Engineering, Personal Information Protection Act
 - 🔐 **Interests**: Security (Cybersecurity)  
 - 📫 **Email**: jinwoo9288@gmail.com  
 
